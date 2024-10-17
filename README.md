@@ -1,6 +1,6 @@
 Git and GitHub for collaborative research: Independet work
 ================
-Your name
+Andres F. Herrera-Motta
 
 - [Project description](#project-description)
 - [Repository contents](#repository-contents)
@@ -8,12 +8,13 @@ Your name
 
 ## Project description
 
-Add description here …
+This is the firts personal project.We are using a cloned folder where we
+are modifiying some files.
 
 ## Repository contents
 
-Describe the contents and their organization here …
+The folder includes three subfolders with Data, Figures and Codes.
 
 ## How to contribute
 
-Describe how would collaborators to contribute to this repository …
+The collaborations can modify the information added.
